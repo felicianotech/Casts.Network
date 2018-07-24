@@ -1,0 +1,17 @@
+baseurl = "https://Casts.Network"
+title = "Casts Network"
+author = "Ricardo N Feliciano (FelicianoTech)"
+canonifyurls = true
+paginate = 3
+
+theme = "hugo-theme-lean-launch-page"
+
+googleAnalytics = "UA-110993459-3"
+
+[params]
+tagline = "Imagine a job board, but matching podcasts and potential guests."
+mailchimpURL = "//Network.us18.list-manage.com/subscribe/post?u=99d703ac38b9916712f09f150&amp;id=a1c181050f"
+
+#twitter = "https://twitter.com/CastsNetwork"
+#facebook = "https://facebook.com/MyNewProduct"
+#instagram = "https://instagram.com/CastsNetwork"
